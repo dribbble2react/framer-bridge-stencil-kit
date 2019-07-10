@@ -4,6 +4,8 @@ If you're looking to see how StencilJS Web components work inside of Framer X, y
 
 This type of setup not only allows you to fully use your StencilJS components in Framer X, but also to publish and disribute them to the wider team through the Framer X Team Store.
 
+You can check the [Github Repository](https://github.com/addisonschultz/stencil-framer-components) or the [NPM Registry](https://www.npmjs.com/package/stencil-framer-components) for more info on these components and to see what they look like out of the context of Framer X.
+
 ## Components
 
 This package contains 4 Web Components, modeled after the components used in the [framer-bridge-starter-kit](https://github.com/framer/framer-bridge-starter-kit). Additionally, these components have added [PropertyControls](https://www.framer.com/api/property-controls/) to visually change the props the components are using.
