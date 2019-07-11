@@ -32,7 +32,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -73,7 +80,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -146,7 +160,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -187,7 +208,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -260,7 +288,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -301,7 +336,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -374,7 +416,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -415,7 +464,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -487,7 +543,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -528,7 +591,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -600,7 +670,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -641,7 +718,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -713,7 +797,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -754,7 +845,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -825,7 +923,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -866,7 +971,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -937,7 +1049,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -978,7 +1097,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -1049,7 +1175,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -1090,7 +1223,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -1162,7 +1302,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -1203,7 +1350,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,
@@ -1275,7 +1429,14 @@
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
-
+              {
+                "__class" : "ExportOptions",
+                "enabled" : true,
+                "nameExtension" : "",
+                "nameExtensionMode" : "Suffix",
+                "scale" : 1,
+                "type" : "png"
+              }
             ],
             "fillColor" : "rgba(255,255,255,1)",
             "fillEnabled" : false,
@@ -1316,7 +1477,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
         ],
         "fillColor" : "white",
         "fillEnabled" : true,

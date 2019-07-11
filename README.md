@@ -8,7 +8,7 @@ You can check the [Github Repository](https://github.com/addisonschultz/stencil-
 
 ## Components
 
-This package contains 4 Web Components, modeled after the components used in the [framer-bridge-starter-kit](https://github.com/framer/framer-bridge-starter-kit). Additionally, these components have added [PropertyControls](https://www.framer.com/api/property-controls/) to visually change the props the components are using.
+This package contains 4 Web Components, modeled after the components used in the [framer-bridge-starter-kit](https://github.com/framer/framer-bridge-starter-kit). Additionally, these components have added [PropertyControls](https://www.framer.com/api/property-controls/) to visually change the props the components are using. You can use these components in a project by installing [this package](https://store.framer.com/package/addison/stencil-components) to your Framer X Project!
 
 ### Button
 
