@@ -17,19 +17,21 @@ export function Input(props: Props) {
     if (!loaded) return;
   }, [loaded, error]);
 
+  const StencilInput = React.useMemo(() => {
+    return (
+      //@ts-ignore
+      <my-input
+        value={props.value}
+        placeholder={props.placeholder}
+        error={props.error}
+        disabled={props.disabled}
+      />
+    );
+  }, [props]);
+
   return (
     <Frame size={"100%"} background={""}>
-      {loaded && !error ? (
-        //@ts-ignore
-        <my-input
-          value={props.value}
-          placeholder={props.placeholder}
-          error={props.error}
-          disabled={props.disabled}
-        />
-      ) : (
-        <b>Something went wrong!</b>
-      )}
+      {loaded && !error ? StencilInput : <b>Something went wrong!</b>}
     </Frame>
   );
 }

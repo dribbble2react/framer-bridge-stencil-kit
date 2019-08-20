@@ -15,14 +15,16 @@ export function Toggle(props: Props) {
     if (!loaded) return;
   }, [loaded, error]);
 
+  const StencilToggle = React.useMemo(() => {
+    return (
+      //@ts-ignore
+      <my-toggle disabled={props.disabled} on={props.on} />
+    );
+  }, [props]);
+
   return (
     <Frame size={"100%"} background={""}>
-      {loaded && !error ? (
-        //@ts-ignore
-        <my-toggle disabled={props.disabled} on={props.on} />
-      ) : (
-        <b>Something went wrong!</b>
-      )}
+      {loaded && !error ? StencilToggle : <b>Something went wrong!</b>}
     </Frame>
   );
 }

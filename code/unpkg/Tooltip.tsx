@@ -16,14 +16,16 @@ export function Tooltip(props: Props) {
     if (!loaded) return;
   }, [loaded, error]);
 
+  const StencilTooltip = React.useMemo(() => {
+    return (
+      //@ts-ignore
+      <my-tooltip arrow={props.arrow} error={props.error} text={props.text} />
+    );
+  }, [props]);
+
   return (
     <Frame size={"100%"} background={""}>
-      {loaded && !error ? (
-        //@ts-ignore
-        <my-tooltip arrow={props.arrow} error={props.error} text={props.text} />
-      ) : (
-        <b>Something went wrong!</b>
-      )}
+      {loaded && !error ? StencilTooltip : <b>Something went wrong!</b>}
     </Frame>
   );
 }
