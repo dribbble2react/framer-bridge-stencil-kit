@@ -50,7 +50,7 @@
             "fillType" : "color",
             "height" : 50,
             "heightType" : 0,
-            "id" : "XWR43GgIT",
+            "id" : "ibPMuDx5P",
             "intrinsicHeight" : 50,
             "intrinsicWidth" : 150,
             "left" : 25,
@@ -96,6 +96,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "HX73xb4Cb",
@@ -178,7 +184,7 @@
             "fillType" : "color",
             "height" : 50,
             "heightType" : 0,
-            "id" : "em_UJ8Ydh",
+            "id" : "lcP5Nzv_j",
             "intrinsicHeight" : 50,
             "intrinsicWidth" : 150,
             "left" : 25,
@@ -224,6 +230,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "C7TJp1GRG",
@@ -306,7 +318,7 @@
             "fillType" : "color",
             "height" : 50,
             "heightType" : 0,
-            "id" : "dkBipn4if",
+            "id" : "vh3XzJNpq",
             "intrinsicHeight" : 50,
             "intrinsicWidth" : 150,
             "left" : 25,
@@ -352,6 +364,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "yYTY5Wskl",
@@ -434,7 +452,7 @@
             "fillType" : "color",
             "height" : 50,
             "heightType" : 0,
-            "id" : "SpdEnqa2u",
+            "id" : "yc7kQeS0q",
             "intrinsicHeight" : 50,
             "intrinsicWidth" : 150,
             "left" : 25,
@@ -480,6 +498,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "hPIk0Cd0b",
@@ -607,6 +631,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 201,
         "heightType" : 0,
         "id" : "x5IGt1KJL",
@@ -734,6 +764,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 201,
         "heightType" : 0,
         "id" : "pWkixdScN",
@@ -861,6 +897,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 201,
         "heightType" : 0,
         "id" : "mHThXYsDD",
@@ -987,6 +1029,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "ybMJIeYbv",
@@ -1113,6 +1161,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "uMUIM0Lkw",
@@ -1239,6 +1293,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "zG2kxyx9D",
@@ -1366,6 +1426,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "kDNd9wM90",
@@ -1493,6 +1559,12 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 200,
         "heightType" : 0,
         "id" : "ZTpPhb4jA",
@@ -1526,7 +1598,167 @@
         "visible" : true,
         "width" : 200,
         "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : null,
+            "centerAnchorX" : 0.4975,
+            "centerAnchorY" : 0.4975,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 43,
+            "heightType" : 0,
+            "id" : "Hlp4nKtGg",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "Rse9dGC18",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(0, 0, 0)",
+                      "SIZE:36",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:__SF-UI-Text-Bold__"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 3,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 3,
+                      "offset" : 0,
+                      "style" : "SIZE:36"
+                    },
+                    {
+                      "length" : 3,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 3,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 3,
+                      "offset" : 0,
+                      "style" : "FONT:__SF-UI-Text-Bold__"
+                    }
+                  ],
+                  "key" : "fguu0",
+                  "text" : "NPM",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"fguu0-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"fguu0-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:36px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">NPM<\/span><\/span><\/div>",
+                "os" : "10_14",
+                "size" : {
+                  "height" : 43,
+                  "width" : 86
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : null,
+            "visible" : true,
+            "width" : 86,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "white",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 200,
+        "heightType" : 0,
+        "id" : "Rse9dGC18",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : -217,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "CAsHICDng",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : -296,
+        "visible" : true,
+        "width" : 200,
+        "widthType" : 0
       }
+    ],
+    "guidesX" : [
+
+    ],
+    "guidesY" : [
+
     ],
     "id" : "CAsHICDng",
     "name" : null,
@@ -1540,5 +1772,5 @@
     ],
     "visible" : false
   },
-  "version" : 52
+  "version" : 54
 }
