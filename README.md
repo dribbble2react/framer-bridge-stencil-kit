@@ -4,6 +4,8 @@ If you're looking to see how StencilJS Web components work inside of Framer X, y
 
 This type of setup not only allows you to fully use your StencilJS components in Framer X, but also to publish and disribute them to the wider team through the Framer X Team Store.
 
+There are two versions of these components, a set coming from the unpkg CDN, and another set coming directly from the node_modules folder installed in this project. Both versions will work, it just depends on the type of setup you want to use.
+
 You can check the [Github Repository](https://github.com/addisonschultz/stencil-framer-components) or the [NPM Registry](https://www.npmjs.com/package/stencil-framer-components) for more info on these components and to see what they look like out of the context of Framer X.
 
 ## Components
