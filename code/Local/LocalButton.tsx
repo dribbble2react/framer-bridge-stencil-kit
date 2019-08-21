@@ -11,8 +11,6 @@ type Props = {
 };
 
 export function LocalButton(props: Props) {
-  console.log("Component Path", localStencilComponents);
-
   const [loaded, error] = useScript(localStencilComponents);
 
   React.useEffect(() => {

@@ -20,7 +20,7 @@ csstype@^2.2.0:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.1.tgz#4cfbf637a577497036ebcd7e32647ef19a0b8076"
   integrity sha512-wv7IRqCGsL7WGKB8gPvrl+++HlFM9kxAM6jL1EXNPNTshEJYilMkbfS2SnuHha77uosp/YVK0wAp2jmlBzn1tg==
 
-stencil-framer-components@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/stencil-framer-components/-/stencil-framer-components-1.0.1.tgz#0390f1e2ad1eda56d297d7ba44ac0b758a7db48a"
-  integrity sha512-twMIBC6NrFCJqONazhaeOYaX+YwUfz6LjRHB4FVv132HSm1pWTiy+6Ptg9k3IlDVKUq7mmIjUnu/r4X+w6fdzw==
+stencil-framer-components@latest:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/stencil-framer-components/-/stencil-framer-components-1.0.2.tgz#b714dc4f89b889f2a2c3d16c90c2767fcd524f19"
+  integrity sha512-uZF2Bdq+kbvDEj5pxd3KUrPe8FrcMtNN5thQ+PZ58e87pSZ5c+qBTAAUK93XDbkfg6zYUAfJWvDdIqZ7C4e5Rg==
