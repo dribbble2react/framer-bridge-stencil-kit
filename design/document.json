@@ -912,7 +912,10 @@
               "disabled" : false,
               "on" : false
             },
-            "codeOverrideEnabled" : false,
+            "codeOverrideEnabled" : true,
+            "codeOverrideFile" : ".\/Examples.tsx",
+            "codeOverrideIdentifier" : ".\/Examples.tsx_Toggle",
+            "codeOverrideName" : "Toggle",
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
@@ -953,7 +956,7 @@
           }
         ],
         "clip" : true,
-        "codeOverrideEnabled" : false,
+        "codeOverrideEnabled" : true,
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [

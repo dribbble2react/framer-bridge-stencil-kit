@@ -6,6 +6,7 @@ import { StencilComponents } from "../utils/constants";
 type Props = {
   disabled: boolean;
   on: boolean;
+  onClick: () => void;
 };
 
 export function Toggle(props: Props) {
@@ -18,7 +19,7 @@ export function Toggle(props: Props) {
   const StencilToggle = React.useMemo(() => {
     return (
       //@ts-ignore
-      <my-toggle disabled={props.disabled} on={props.on} />
+      <my-toggle disabled={props.disabled} on={props.on} {...props} />
     );
   }, [props]);
 
