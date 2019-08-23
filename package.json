@@ -14,7 +14,7 @@
 	},
 	"author": "Addison Schultz",
 	"name": "@framer/addison.stencil-components",
-	"version": "1.7.0",
+	"version": "1.8.0",
 	"dependencies": {
 		"stencil-framer-components": "latest"
 	}
